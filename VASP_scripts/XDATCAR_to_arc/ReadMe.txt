@@ -1,7 +1,5 @@
-The goal of this script is to convert the VASP XDATCAR to .arc.
+The goal of this script is to convert the VASP XDATCAR to .arc., which can be visualized in Material Studio.
 Usage:
-1. cp dat2xyz.pl XDATCAR_to_arc.sh <your directory>
-2. Modify the "lattice_constant" manually
-4. chmod +x xdat2xyz.pl; chmox +x XDATCAR_to_arc.sh
-5. ./xdat2xyz.pl
-6. ./XDATCAR_to_arc.sh
+1. make sure you have xdat2xyz.pl and pos2xyz.pl (download at http://theory.cm.utexas.edu/code/vtstscripts.tgz) in your $PATH, such as ~/bin/
+2. chmod +x xdat2arc.sh
+3. ./xdat2arc.sh
