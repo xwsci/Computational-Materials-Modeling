@@ -1,0 +1,5 @@
+((y-z)-z)  corr=      0.9827
+(z/exp(y))  corr=      0.9801
+(y/(y+z))  corr=      0.9702
+((z)^2/y)  corr=      0.9390
+(z/y)  corr=      0.9356

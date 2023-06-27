@@ -1,0 +1,15 @@
+(x+(x+z))  corr=      0.9877
+(x)  corr=      0.9824
+(x*exp(z))  corr=      0.9776
+(exp(x))^-1  corr=      0.9739
+(x*(x+y))  corr=      0.9714
+((y-z)-z)  corr=      0.9827
+(z/exp(y))  corr=      0.9801
+(y/(y+z))  corr=      0.9702
+((z)^2/y)  corr=      0.9390
+(z/y)  corr=      0.9356
+((x-y)/z)  corr=      0.7436
+((y+z))^-1  corr=      0.7106
+((x)^3/z)  corr=      0.6424
+((x/y)/z)  corr=      0.6118
+((x)^2/z)  corr=      0.5774

@@ -1,0 +1,5 @@
+(x+(x+z))  corr=      0.9877
+(x)  corr=      0.9824
+(x*exp(z))  corr=      0.9776
+(exp(x))^-1  corr=      0.9739
+(x*(x+y))  corr=      0.9714
